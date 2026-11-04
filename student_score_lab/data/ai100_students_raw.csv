@@ -1,0 +1,409 @@
+student_id,section,hw1_score,hw1_status,hw2_score,hw2_status,hw3_score,hw3_status,hw4_score,hw4_status,hw5_score,hw5_status,hw6_score,hw6_status,midterm_attendance,final_attendance,exercises,seat_row,final_score,letter_grade
+S1032,b,6.3,LATE,6.5,on-time,5.1,late ,7.8,ON TIME,7.7,on-time,7.7,ON TIME,90%,77%,yes ,2,84.9,B
+S1142,Sec C,4.7,Late,5.4,ON TIME,6.4,Late,,not submitted,6.3,late ,7.199999999999999,LATE,71%,86%,,4,79.3,C
+S1197, A ,6.2,on time,,missing,8.5,on-time,,Missing,8.3,ON TIME,6.0,on time,100%,78%,Y,3,85.8,B
+S1214,B,8.6,on-time,5.6,on time,6.4,on-time,6.2,Late,8.8,ON TIME,6.4,On time,76%,,yes,7,78.2,C
+S1069,A,,missing,6.1,LATE,7.8,On time,7.0,On time,5.6,on time,,Missing,84%,-5%,yes,11,76.2,C
+S1169, B ,6.7,LATE,8.4,on time,9.6,ON TIME,6.8,on time,,Missing,6.3,On time,76%,91%,Y,7,86.6,B
+S1094,a,6.3,on-time,5.8,on-time,6.4,late,4.5,On time,6.1,on-time,,,75%,63%,Yes,3,72.9,C
+S1212,B,8.9,ON TIME,7.2,on-time,8.3,on time,10.0,on time,8.9,On time,6.9,ON TIME,84%,58%,Yes,6,80.7,B
+S1205,Sec B,,,7.8,ON TIME,2.6,late ,5.8,LATE,6.7,ON TIME,4.8,late ,80%,67%,yes ,11,72.1,C
+S1312,A,7.5,On time,5.8,late ,6.5,on-time,5.2,late ,,,7.2,ON TIME,64%,49%,Yes,1,57.2,F
+S1261,A,9.6,ON TIME,8.2,on-time,9.0,late ,9.5,on time,6.9,on time,8.3,ON TIME,100%,100%,yes ,7,95.2,A
+S1070,B,,Missing,6.5,late ,5.8,on-time,,,3.6,on-time,3.9000000000000004,LATE,,66%,yes,4,68.0,D
+S1193,Sec B,,Missing,,,,,3.7,LATE,,missing,,missing,55%,38%,NO,1,31.9,F
+S1020,b,8.0,on-time,6.4,Late,7.1,On time,3.5,LATE,8.1,on-time,5.1,ON TIME,66%,44%,yes,1,68.2,D
+S1381,Sec C,7.4,on-time,7.0,on time,5.7,ON TIME,7.8,On time,7.4,on-time,8.4,on-time,,,yes ,1,94.7,A
+S1203,c,9.4,On time,8.7,on-time,8.3,on time,10.0,ON TIME,7.4,On time,8.5,on-time,100%,100%,yes,6,98.0,A
+S1368,C,6.7,on time,6.9,on-time,6.4,on time,7.6,ON TIME,4.1,LATE,3.5,Late,86%,90%,yes,8,73.4,C
+S1129, C ,9.3,on time,8.3,on time,7.199999999999999,Late,6.6,On time,6.6,on time,7.0,LATE,90%,87%,yes ,5,80.7,B
+S1343,a,5.4,On time,6.5,late,5.3,Late,9.2,On time,,Missing,5.9,on-time,80%,68%,N,12,72.8,C
+S1131,A,8.7,on-time,7.5,on-time,8.0,on time,8.8,on-time,10.0,on-time,7.5,on-time,80%,82%,yes,5,86.6,B
+S1357,Sec B,8.0,ON TIME,8.2,on-time,9.2,ON TIME,8.7,on-time,7.5,on time,7.3,On time,85%,65%,Yes,6,87.0,B
+S1084,c,6.3,on time,6.4,on time,7.5,on time,6.1,LATE,8.3,on-time,6.1,ON TIME,86%,84%,Y,1,82.0,B
+S1330,Sec B,9.2,on time,4.6,Late,8.7,on-time,7.4,ON TIME,6.8,On time,6.2,ON TIME,94%,,Yes,11,85.4,B
+S1178,C,5.6,LATE,5.2,LATE,4.6,ON TIME,6.3,late ,5.1,On time,5.3,LATE,56%,35%,N,4,59.5,F
+S1270,Sec B,8.0,On time,9.9,on-time,9.6,ON TIME,6.1,LATE,8.3,late,7.4,Late,86%,77%,Y,10,84.5,B
+S1355,A,10.0,ON TIME,9.6,ON TIME,8.8,late,7.1,ON TIME,10.0,on time,8.2,late,99%,93%,N,2,87.4,B
+S1283,A,5.5,on-time,,missing,,not submitted,,Missing,7.0,ON TIME,6.7,on time,84%,80%,NO,11,61.4,D
+S1053,B,7.0,on time,4.7,Late,5.4,Late,8.2,ON TIME,6.2,ON TIME,,Missing,94%,73%,yes ,9,89.6,B
+S1198, B ,6.7,on-time,7.0,On time,7.699999999999999,late ,8.0,ON TIME,9.1,on time,8.7,ON TIME,71%,47%,yes,3,76.6,C
+S1304,Sec B,8.0,On time,8.4,On time,6.2,On time,7.3,On time,7.4,On time,5.6,late,97%,89%,Yes,11,71.6,C
+S1332,a,5.5,on-time,7.2,on time,7.3,On time,9.1,on time,6.5,ON TIME,6.1,On time,90%,80%,Yes,5,82.5,B
+S1364,b,6.6,on-time,,Missing,5.0,On time,4.0,late ,5.8,ON TIME,6.4,late,72%,77%,yes,1,76.4,C
+S1161,a,7.2,on-time,7.9,late,,Missing,6.4,On time,8.4,ON TIME,8.5,on time,79%,70%,yes,12,88.1,B
+S1002,c,8.1,ON TIME,8.9,ON TIME,,,6.3,on-time,8.7,on time,7.5,ON TIME,86%,82%,Y,10,80.5,B
+S1025,b,7.2,ON TIME,6.3,on-time,6.2,ON TIME,7.800000000000001,late,,Missing,7.1,ON TIME,71%,45%,yes ,10,60.0,D
+S1183, A ,4.9,on-time,10.0,ON TIME,7.5,on time,8.8,On time,8.9,ON TIME,7.8,On time,86%,86%,yes,2,94.7,A
+S1194, B ,6.2,on time,8.0,on time,9.4,on time,6.6,on time,8.2,ON TIME,6.5,on time,77%,71%,yes ,10,82.0,B
+S1055,c,7.6,ON TIME,9.3,on-time,6.2,On time,7.1,Late,8.6,on time,8.1,On time,100%,100%,,8,91.2,A
+S1276,C,6.3,On time,7.1,On time,7.4,ON TIME,5.0,LATE,,,5.5,late ,85%,83%,No,6,77.9,C
+S1024, B ,7.3,On time,10.0,on-time,9.5,on time,8.2,on-time,10.0,on-time,9.2,on time,100%,94%,Y,10,94.4,A
+S1278,a,7.1,On time,7.1,On time,8.9,On time,6.1,ON TIME,9.3,ON TIME,4.6,LATE,96%,92%,Yes,2,93.3,A
+S1342,B,8.0,on time,8.0,on-time,7.6,On time,6.2,ON TIME,6.8,Late,7.3,on time,70%,56%,NO,7,79.3,C
+S1007,B,7.1,on-time,9.2,on time,10.0,on-time,7.7,On time,9.4,ON TIME,8.4,On time,81%,70%,Yes,10,96.3,A
+S1285,b,10.0,on time,9.9,ON TIME,10.0,ON TIME,10.0,on time,7.8,On time,8.7,on time,100%,100%,no,6,100.0,A
+S1119,B,9.4,on-time,7.0,on time,9.5,On time,7.9,ON TIME,7.6,on time,8.2,on-time,88%,95%,Y,5,95.7,A
+S1253,Sec B,5.3,late,4.9,on-time,6.8,on-time,,Missing,8.5,on time,,,70%,67%,NO,12,65.3,D
+S1322, C ,5.5,late,,Missing,,not submitted,,missing,3.9000000000000004,late,3.7,on time,69%,62%,NO,10,46.1,F
+S1028, C ,6.7,late,6.3,late,7.2,ON TIME,7.6,On time,10.0,ON TIME,9.7,on-time,,,yes ,7,91.4,A
+S1146, C ,5.3,Late,8.6,On time,5.5,on-time,8.1,on time,8.8,ON TIME,5.9,late,87%,92%,Y,4,88.0,B
+S1269,Sec B,6.5,on-time,5.0,Late,4.6,late ,6.1,on time,5.9,Late,4.3,Late,78%,69%,N,7,71.9,C
+S1262,a,9.0,on time,5.2,late ,5.7,on time,8.5,on time,8.7,On time,6.2,on time,72%,73%,N,8,81.9,B
+S1147,C,8.1,on time,5.6,on-time,6.1,On time,8.9,on-time,6.8,on-time,7.6,On time,79%,,yes,11,84.7,B
+S1159,A,9.2,on time,9.5,ON TIME,7.4,on-time,9.9,On time,9.0,on time,8.1,on-time,88%,89%,yes ,9,100.0,A
+S1281,A,8.2,on-time,9.4,ON TIME,7.9,on-time,8.1,late ,7.2,On time,10.0,On time,95%,95%,NO,2,81.9,B
+S1373,a,4.9,LATE,4.7,On time,5.3,ON TIME,5.2,ON TIME,6.9,On time,7.4,ON TIME,75%,67%,Yes,11,76.3,C
+S1289,C,9.2,ON TIME,8.0,on-time,6.8,On time,6.2,on time,6.0,Late,7.2,ON TIME,65%,67%,NO,8,81.3,B
+S1340,Sec A,8.2,on-time,7.7,on time,7.9,on-time,,Missing,6.5,on-time,4.7,on time,66%,60%,No,8,66.3,D
+S1170,B,7.6,on time,7.0,on-time,6.6,on-time,8.0,On time,5.1,Late,5.8,on time,95%,96%,yes,2,84.9,B
+S1114,Sec B,7.3,ON TIME,6.7,on time,7.1,ON TIME,5.5,on time,6.9,On time,6.6,late,71%,67%,No,6,79.8,C
+S1334,a,9.6,on-time,9.5,on-time,10.0,ON TIME,7.199999999999999,LATE,7.0,On time,10.0,on-time,98%,98%,yes,5,94.1,A
+S1109,c,8.2,on time,3.5,Late,,not submitted,6.4,On time,6.9,late ,6.8,on time,82%,59%,no,9,69.2,D
+S1320,a,8.3,on time,9.7,On time,10.0,on time,6.6,on time,7.4,late,7.9,ON TIME,100%,100%,NO,6,100.0,A
+S1291,c,,,6.4,on-time,6.2,On time,6.8,on-time,7.8,on-time,6.3,Late,86%,81%,yes ,9,75.7,C
+S1067, A ,5.0,on time,7.5,on-time,8.4,on time,6.9,on time,5.7,On time,8.4,ON TIME,84%,79%,yes ,9,88.5,B
+S1344, C ,8.9,on time,5.5,late ,7.1,On time,8.7,on time,5.9,late,7.5,LATE,95%,80%,Y,10,88.6,B
+S1160,Sec B,8.3,ON TIME,5.0,ON TIME,7.5,on time,4.5,Late,7.4,on-time,,not submitted,70%,65%,Y,9,73.0,C
+S1077, A ,5.7,ON TIME,5.7,ON TIME,4.3,on-time,8.2,On time,,missing,,missing,63%,54%,,1,58.5,F
+S1151,b,4.2,on-time,8.9,ON TIME,7.8,on time,4.9,late ,6.0,ON TIME,6.7,late ,73%,,yes,5,77.5,C
+S1030, C ,7.6,ON TIME,5.9,on time,5.4,Late,5.4,LATE,7.2,ON TIME,8.4,Late,78%,74%,Y,9,83.2,B
+S1172,A,7.199999999999999,LATE,6.2,late ,4.8,on-time,5.5,on-time,6.6,On time,5.6,late,84%,65%,,5,71.5,C
+S1068,c,9.4,On time,6.7,on-time,9.0,on time,6.4,On time,6.3,late,7.9,ON TIME,80%,63%,Y,2,86.3,B
+S1141,Sec B,7.7,on time,5.4,on-time,9.2,on time,8.1,on-time,7.4,on time,6.5,Late,96%,,NO,9,85.2,B
+S1317,C,,not submitted,7.6,On time,7.5,On time,7.1,late ,8.2,ON TIME,4.9,On time,82%,70%,yes ,4,81.5,B
+S1243, A ,7.5,ON TIME,9.0,on time,8.7,On time,9.1,ON TIME,8.9,on time,8.4,ON TIME,100%,91%,yes ,6,96.6,A
+S1017, B ,7.7,On time,3.2,late ,6.1,on time,8.2,ON TIME,8.6,ON TIME,,not submitted,82%,85%,Y,9,83.2,B
+S1353,C,7.4,Late,7.5,on-time,8.7,On time,6.3,on-time,9.2,on-time,10.0,on-time,90%,88%,,12,88.9,B
+S1189, C ,10.0,on-time,8.1,Late,8.0,on-time,8.9,On time,10.0,on-time,9.4,on time,100%,100%,,8,94.9,A
+S1354,c,7.4,On time,,,6.4,LATE,7.8,on-time,6.4,on-time,6.1,late ,96%,99%,yes,8,83.3,B
+S1279,a,3.9000000000000004,Late,7.3,on time,6.0,Late,4.5,Late,,not submitted,4.5,late,,64%,yes,2,76.7,C
+S1089,Sec A,5.1,late ,5.1,LATE,,missing,7.9,late,,missing,7.8,On time,66%,53%,N,2,52.2,F
+S1163,b,5.7,Late,,Missing,3.8,late ,,,,not submitted,5.4,LATE,52%,29%,No,5,35.8,F
+S1041, A ,,Missing,5.5,late ,5.2,late ,,Missing,,,,missing,63%,43%,yes,4,42.9,F
+S1264,Sec A,7.9,late,8.7,Late,6.5,On time,8.7,ON TIME,9.1,on-time,8.8,ON TIME,100%,,yes ,4,86.4,B
+S1236,b,,,5.8,on time,3.9000000000000004,Late,,missing,4.4,on-time,5.1,on-time,65%,49%,No,2,58.9,F
+S1200, A ,7.6,Late,9.4,on-time,10.0,On time,7.8,ON TIME,4.5,Late,8.4,ON TIME,100%,100%,Yes,10,96.0,A
+S1390,Sec B,8.9,on time,8.6,ON TIME,9.4,On time,6.9,LATE,7.4,on time,9.0,ON TIME,93%,,yes,5,96.9,A
+S1065, B ,,Missing,7.2,ON TIME,8.4,on-time,9.1,on time,9.4,ON TIME,10.0,On time,86%,73%,Yes,2,83.1,B
+S1352,a,8.6,ON TIME,9.0,Late,9.1,on time,9.1,on time,7.6,On time,9.2,On time,83%,81%,Yes,3,93.9,A
+S1265, A ,1.9,LATE,,,5.1,Late,4.1,Late,,missing,,missing,75%,61%,N,7,49.2,F
+S1182,c,2.9,late ,4.9,ON TIME,7.0,Late,4.7,late,5.8,LATE,7.6,On time,,56%,NO,5,62.4,D
+S1100,Sec B,7.5,on-time,7.9,on-time,7.1,ON TIME,,not submitted,6.2,LATE,4.4,on time,100%,93%,N,6,80.8,B
+S1217,A,9.8,On time,9.2,ON TIME,9.7,on-time,10.0,On time,10.0,on time,10.0,ON TIME,92%,97%,Y,6,100.0,A
+S1199, C ,,,,Missing,,Missing,3.3,late,3.0,late ,6.5,late ,,25%,N,4,33.7,F
+S1389,b,7.2,On time,4.7,on-time,5.9,on time,7.6,on-time,7.8,on time,4.8,on-time,79%,77%,N,7,74.2,C
+S1003,c,7.6,on time,7.3,On time,7.5,on-time,5.7,ON TIME,8.2,on time,6.8,On time,67%,,yes ,12,84.5,B
+S1396,b,6.1,On time,6.4,ON TIME,6.1,on time,7.1,late,5.4,LATE,7.199999999999999,Late,83%,58%,no,2,82.7,B
+S1209,C,,missing,7.6,on time,6.9,on time,7.0,on-time,5.8,ON TIME,4.3,late,87%,82%,yes,12,87.6,B
+S1318,B,8.3,On time,7.8,on-time,7.2,on time,5.2,on time,7.1,On time,8.9,on time,77%,68%,Yes,6,74.2,C
+S1042,C,5.4,on-time,6.4,on time,6.6,Late,6.6,on time,6.8,Late,5.7,late ,75%,77%,no,12,58.9,F
+S1174,Sec C,8.6,on time,9.4,on time,8.0,ON TIME,5.4,LATE,,missing,7.7,ON TIME,86%,80%,,1,93.0,A
+S1010,c,10.0,On time,8.2,on-time,8.6,On time,10.0,on time,9.8,ON TIME,7.9,on-time,,100%,Y,7,100.0,A
+S1188,Sec B,7.7,on-time,9.6,on-time,10.0,on time,8.0,ON TIME,9.2,On time,9.5,on time,96%,,yes,2,99.2,A
+S1294,Sec B,8.1,on-time,10.0,On time,10.0,on-time,8.7,on-time,8.0,On time,10.0,ON TIME,95%,84%,yes ,6,95.6,A
+S1240,C,4.7,On time,7.3,on-time,7.0,On time,,missing,6.7,Late,6.6,ON TIME,79%,60%,,5,72.1,C
+S1309, B ,5.3,LATE,5.2,on-time,6.6,LATE,6.3,on time,4.7,on-time,6.0,On time,73%,61%,No,10,77.1,C
+S1066, B ,,missing,8.1,on time,5.2,On time,3.8,Late,6.3,on-time,7.0,LATE,,46%,N,4,57.5,F
+S1333,c,6.2,on-time,,Missing,6.7,Late,,not submitted,5.6,ON TIME,,not submitted,68%,59%,yes ,4,59.3,F
+S1280,Sec B,10.0,on-time,10.0,on time,8.3,ON TIME,9.8,on-time,10.0,on-time,8.4,On time,100%,100%,yes,7,100.0,A
+S1225,a,5.9,on-time,8.8,On time,6.7,ON TIME,7.5,on-time,6.7,on time,5.8,LATE,78%,60%,N,9,70.9,C
+S1204,C,7.5,late ,5.8,late,5.8,on time,7.199999999999999,late,4.7,On time,5.5,On time,75%,67%,N,2,71.8,C
+S1012,b,6.0,Late,7.1,on-time,,missing,7.0,late,7.6,LATE,6.5,on time,67%,61%,Y,4,60.7,D
+S1013,A,9.9,ON TIME,8.9,on-time,5.7,On time,10.0,On time,6.8,late ,8.8,on-time,94%,86%,yes,9,100.0,A
+S1157,A,7.6,on-time,,Missing,6.7,on-time,6.3,late ,8.1,on time,,missing,,86%,Yes,4,72.9,C
+S1370,Sec B,4.2,late ,5.3,late ,5.4,LATE,,not submitted,,,,missing,59%,60%,N,3,53.6,F
+S1315,C,5.6,ON TIME,4.0,late ,,,4.8,late,,,,Missing,86%,90%,N,8,72.5,C
+S1237,Sec B,6.1,ON TIME,5.8,late,5.3,on-time,5.5,ON TIME,5.1,late,,not submitted,61%,32%,N,5,67.1,D
+S1341,C,4.9,Late,5.1,late ,,,5.6,On time,,,,not submitted,62%,40%,No,3,40.2,F
+S1029, A ,9.4,on-time,8.1,On time,7.9,On time,4.8,On time,7.6,on-time,8.4,on time,73%,70%,Yes,8,80.3,B
+S1347, A ,8.2,LATE,6.8,on-time,7.3,on-time,7.1,on-time,5.7,ON TIME,6.2,Late,79%,66%,no,4,70.3,C
+S1268, C ,7.9,ON TIME,9.4,on time,8.4,On time,8.3,On time,6.0,late ,8.4,ON TIME,84%,94%,yes,7,78.0,C
+S1222,c,2.1,LATE,7.8,on time,6.6,on time,6.6,On time,,not submitted,5.1,ON TIME,60%,49%,No,9,61.6,D
+S1339,Sec C,6.6,Late,7.7,ON TIME,3.8,ON TIME,5.3,late,9.3,on-time,8.4,ON TIME,87%,85%,yes,6,85.0,B
+S1307,Sec C,10.0,ON TIME,9.1,ON TIME,10.0,ON TIME,9.5,ON TIME,9.0,ON TIME,9.3,on-time,94%,90%,yes,4,94.8,A
+S1108,Sec C,5.9,late,,,7.8,On time,7.5,ON TIME,5.2,ON TIME,5.5,on-time,87%,67%,Y,2,72.3,C
+S1235,C,6.7,ON TIME,,not submitted,6.1,late ,7.6,on-time,,,2.4,late,87%,86%,yes ,9,67.8,D
+S1175,c,4.9,on time,4.0,late,2.7,late ,,Missing,3.4000000000000004,LATE,,Missing,72%,52%,No,11,56.4,F
+S1277, C ,,,5.9,on time,5.4,on-time,5.6,ON TIME,7.1,Late,6.7,ON TIME,70%,60%,Y,4,78.1,C
+S1284,b,8.1,On time,7.4,ON TIME,3.9000000000000004,Late,6.3,late,5.2,Late,6.6,on time,81%,72%,N,1,77.0,C
+S1035,Sec A,6.7,On time,7.7,ON TIME,7.8,on time,7.4,on-time,8.0,late,9.6,on time,90%,96%,Y,3,96.6,A
+S1306,c,7.8,on time,8.8,ON TIME,5.4,on time,9.1,On time,,,9.1,On time,79%,70%,Yes,10,78.4,C
+S1099,b,6.7,Late,5.4,Late,6.8,late,4.2,late,,,7.3,on time,74%,42%,Y,7,69.2,D
+S1226,b,4.8,on-time,6.7,ON TIME,7.7,on time,9.3,on-time,,,9.1,on-time,86%,62%,N,10,65.5,D
+S1112, B ,5.8,on time,5.7,On time,8.2,on time,8.2,On time,8.0,ON TIME,4.1,ON TIME,78%,75%,Yes,9,88.3,B
+S1150,Sec A,,not submitted,7.5,On time,7.6,on-time,,missing,6.6,On time,6.1,LATE,81%,78%,N,1,68.7,D
+S1128,Sec C,8.2,on time,5.6,on-time,5.9,on-time,7.0,on time,5.2,LATE,7.6,on time,88%,88%,Y,1,89.3,B
+S1165,c,,not submitted,6.9,late,5.3,late,8.7,on time,6.7,Late,5.6,LATE,73%,56%,yes ,11,78.8,C
+S1369,Sec A,,Missing,,not submitted,2.3,late,6.1,On time,5.2,on time,4.2,LATE,71%,64%,N,3,62.6,D
+S1274, A ,4.2,late,5.0,on time,6.0,on time,,missing,4.9,on time,,Missing,61%,56%,no,2,57.2,F
+S1180,C,5.7,on time,6.1,late ,6.6,On time,8.5,ON TIME,7.8,on time,6.2,On time,91%,99%,N,8,82.5,B
+S1186,Sec B,10.0,on time,8.4,late ,10.0,ON TIME,9.5,on-time,9.3,on time,9.0,On time,100%,100%,yes,5,94.1,A
+S1098,b,6.4,On time,7.5,late ,5.2,On time,7.1,on time,5.8,late,,not submitted,81%,81%,Y,7,64.2,D
+S1118,B,7.7,on-time,7.5,on-time,7.5,on-time,8.3,ON TIME,9.4,ON TIME,6.7,On time,,86%,Y,6,97.1,A
+S1345,Sec C,5.7,late,8.5,on-time,6.1,On time,8.1,On time,7.4,late,6.9,Late,,73%,No,3,73.9,C
+S1395,B,7.5,on time,8.5,on time,7.4,ON TIME,6.7,late ,8.5,on-time,6.4,late ,120%,50%,Y,9,77.9,C
+S1176,b,7.9,on-time,6.5,late,6.5,ON TIME,,,8.1,ON TIME,6.2,late,66%,60%,NO,7,73.6,C
+S1216,Sec A,6.8,Late,5.4,late ,6.3,late,5.3,On time,,not submitted,3.5,late,78%,80%,,11,69.7,D
+S1060,c,3.3,on time,4.8,LATE,,not submitted,3.5,LATE,7.0,on time,5.1,on time,51%,27%,,11,46.3,F
+S1356,Sec C,8.8,On time,7.7,ON TIME,7.6,Late,8.3,late,7.2,on time,7.8,on time,94%,93%,NO,4,85.4,B
+S1303,Sec C,8.7,On time,3.9000000000000004,LATE,,not submitted,,,5.3,Late,6.9,on-time,78%,68%,N,11,57.9,F
+S1011,a,5.1,on time,6.6,on-time,2.9,Late,4.8,Late,3.8,On time,3.7,late,90%,90%,Y,8,72.5,C
+S1314,C,4.6,Late,3.5999999999999996,Late,,not submitted,,,99.0,Late,5.3,On time,63%,62%,No,10,50.5,F
+S1173,a,6.7,on-time,4.0,ON TIME,,missing,6.9,on time,4.6,late,6.7,on-time,67%,56%,yes,10,73.3,C
+S1192,C,7.7,on-time,10.0,ON TIME,10.0,ON TIME,8.6,on-time,10.0,ON TIME,8.4,late ,100%,100%,Y,3,93.0,A
+S1241, A ,4.6,late,3.3,LATE,7.7,On time,6.6,LATE,4.5,late,4.6,ON TIME,74%,67%,Yes,4,64.1,D
+S1126,Sec B,5.3,late ,5.2,Late,,not submitted,6.8,on-time,,,8.3,on-time,76%,79%,yes,4,68.9,D
+S1127,A,5.2,on-time,7.9,on-time,7.2,ON TIME,6.9,On time,4.8,late ,6.9,On time,81%,67%,Y,11,82.8,B
+S1057,B,6.6,on-time,,not submitted,4.7,late,,missing,4.4,LATE,7.800000000000001,late ,78%,65%,Y,2,63.1,D
+S1376,b,6.1,On time,6.0,LATE,5.6,On time,8.2,On time,4.8,on time,6.2,LATE,72%,57%,yes,7,76.5,C
+S1374,B,9.3,On time,,not submitted,6.2,On time,8.0,on-time,9.6,on-time,,Missing,94%,98%,Y,5,80.2,B
+S1321,B,,,4.6,On time,8.0,ON TIME,,not submitted,8.0,on time,5.7,LATE,57%,31%,yes ,12,63.6,D
+S1074,Sec C,7.8,On time,8.5,ON TIME,7.0,LATE,6.2,Late,7.5,ON TIME,6.8,Late,85%,82%,Yes,4,84.4,B
+S1106,B,9.1,ON TIME,,missing,7.7,ON TIME,3.8,ON TIME,9.5,ON TIME,7.7,On time,78%,72%,,1,86.8,B
+S1091, A ,9.6,on-time,6.2,on time,8.7,On time,9.4,On time,7.6,ON TIME,7.9,on-time,98%,97%,Y,12,100.0,A
+S1327,C,6.3,LATE,7.4,on-time,,,7.5,on time,,,4.9,LATE,68%,52%,No,8,54.8,F
+S1331,Sec C,9.0,on-time,9.0,On time,8.7,on time,9.9,ON TIME,8.1,ON TIME,8.4,ON TIME,79%,71%,No,8,82.1,B
+S1179, A ,8.8,On time,8.3,On time,7.8,ON TIME,7.4,On time,9.2,on time,8.3,On time,99%,100%,yes ,10,92.5,A
+S1023,Sec A,7.7,ON TIME,8.2,on-time,4.2,Late,4.1,on-time,7.1,late,4.6,Late,62%,82%,yes ,11,71.9,C
+S1190, A ,10.0,On time,8.5,On time,,not submitted,9.0,ON TIME,9.0,Late,9.4,ON TIME,88%,83%,yes,7,87.5,B
+S1256, A ,6.9,on time,6.4,late,,,3.4,ON TIME,4.2,late,5.3,on time,75%,57%,no,11,55.8,F
+S1001, C ,8.3,ON TIME,7.800000000000001,Late,8.9,on-time,7.199999999999999,late,9.0,on time,6.5,On time,92%,,yes,7,87.2,B
+S1181,Sec C,5.2,on-time,5.4,late ,7.4,On time,7.1,on-time,,not submitted,,Missing,73%,79%,NO,9,73.6,C
+S1039, C ,,not submitted,1.7999999999999998,LATE,4.2,LATE,,missing,4.3,LATE,6.6,on time,76%,71%,,1,69.5,D
+S1111,B,5.5,Late,7.7,on-time,8.3,On time,8.1,ON TIME,7.3,on time,6.7,on time,69%,,yes ,2,91.3,A
+S1398,Sec A,4.5,ON TIME,7.4,on-time,,,7.2,on time,7.2,On time,6.7,On time,80%,77%,yes ,3,75.7,C
+S1399,a,6.0,on-time,6.2,late ,8.3,on time,7.800000000000001,late ,7.9,On time,6.3,on time,120%,86%,N,6,75.8,C
+S1054,Sec A,7.9,on time,8.7,On time,8.9,on time,7.4,on time,8.4,on time,7.800000000000001,LATE,83%,66%,NO,11,75.4,C
+S1004, C ,,Missing,6.3,on-time,,not submitted,6.4,on time,6.7,ON TIME,,Missing,85%,84%,yes ,5,69.4,D
+S1104, A ,8.9,Late,8.8,On time,9.2,on-time,10.0,on time,9.2,ON TIME,8.8,on time,85%,83%,Yes,8,100.0,A
+S1266,B,7.4,on time,6.1,late ,5.7,late ,5.7,ON TIME,5.7,On time,,not submitted,80%,49%,Yes,7,73.2,C
+S1251,Sec B,8.1,LATE,7.7,on time,5.7,Late,9.0,on-time,9.2,ON TIME,5.3,late,86%,84%,Y,11,82.7,B
+S1105,b,8.4,ON TIME,7.1,ON TIME,8.5,on time,7.4,On time,10.0,ON TIME,6.5,on-time,79%,72%,yes ,4,92.2,A
+S1085, A ,,Missing,4.5,Late,6.8,Late,3.5,late ,4.1,on time,,missing,64%,50%,Yes,11,59.0,F
+S1372,a,6.0,On time,,Missing,5.8,On time,6.8,LATE,7.6,on-time,,missing,78%,76%,no,2,67.6,D
+S1171,Sec C,9.0,On time,6.3,On time,8.6,on time,6.6,late ,8.7,On time,6.4,On time,84%,74%,yes,1,80.1,B
+S1221,c,5.8,ON TIME,5.4,LATE,,not submitted,,not submitted,5.5,on-time,7.6,late,81%,75%,yes ,4,57.4,F
+S1152,A,8.8,on time,8.2,late,8.9,on time,7.8,on time,8.7,ON TIME,6.8,ON TIME,100%,99%,Yes,4,93.3,A
+S1166,Sec C,3.2,Late,5.3,On time,6.3,on time,7.1,on-time,4.8,ON TIME,6.6,ON TIME,77%,52%,No,7,60.1,D
+S1006,Sec C,6.5,ON TIME,7.300000000000001,LATE,9.6,on time,10.0,on-time,8.0,ON TIME,7.6,LATE,98%,100%,yes ,2,90.6,A
+S1300,b,,Missing,5.5,Late,,,,not submitted,5.6,on-time,4.3,LATE,56%,35%,Yes,5,53.5,F
+S1337,A,4.6,ON TIME,7.5,ON TIME,7.300000000000001,Late,6.7,on time,8.2,On time,7.8,On time,82%,,,4,82.2,B
+S1156,a,6.4,on-time,5.8,On time,6.4,ON TIME,5.7,ON TIME,5.2,Late,7.1,ON TIME,60%,43%,Y,3,67.1,D
+S1230,Sec C,8.2,On time,7.6,late,8.9,late ,9.4,On time,7.8,On time,9.9,On time,95%,,Y,4,85.1,B
+S1082, B ,8.6,ON TIME,7.5,on-time,8.5,ON TIME,8.0,On time,7.8,On time,9.2,on time,98%,100%,Yes,7,94.5,A
+S1349,C,8.2,on-time,5.8,ON TIME,8.2,on time,7.6,on-time,5.8,ON TIME,6.7,ON TIME,91%,82%,Y,3,94.3,A
+S1071, C ,5.5,LATE,9.6,ON TIME,7.2,On time,5.6,late,7.9,On time,10.0,ON TIME,91%,93%,,5,96.0,A
+S1305,Sec B,,not submitted,6.0,Late,,Missing,7.9,Late,4.0,On time,4.6,late ,74%,65%,yes ,5,65.4,D
+S1380,Sec B,7.4,on time,8.1,ON TIME,,Missing,6.3,ON TIME,,Missing,,missing,77%,51%,N,1,67.0,D
+S1087,a,7.1,ON TIME,,,4.1,late,6.0,late ,5.8,LATE,6.3,ON TIME,73%,62%,yes,4,72.1,C
+S1215,b,4.6,on-time,6.0,ON TIME,7.8,on time,4.1,late ,8.9,on time,9.2,on time,63%,66%,N,10,68.4,D
+S1064, A ,6.7,late ,5.9,on time,6.1,on time,7.5,ON TIME,7.8,on-time,7.8,on-time,63%,35%,N,7,63.3,D
+S1014, B ,7.2,ON TIME,,Missing,,missing,,missing,4.3,late ,4.6,on time,69%,70%,NO,5,55.8,F
+S1223, C ,,not submitted,3.5999999999999996,late ,6.8,on-time,,missing,6.1,on time,7.0,on-time,72%,64%,No,7,71.8,C
+S1228, A ,5.7,late ,7.8,on time,,,6.4,LATE,8.4,on time,7.0,late ,64%,66%,no,11,67.8,D
+S1018,c,10.0,on-time,7.0,on-time,6.9,On time,8.0,on time,8.7,ON TIME,6.7,ON TIME,93%,98%,yes ,4,95.6,A
+S1313, B ,5.1,late,,not submitted,5.6,On time,6.9,on time,8.3,on time,6.9,Late,90%,93%,yes,2,79.0,C
+S1244, C ,6.5,on time,,not submitted,7.3,on time,6.2,on time,8.0,On time,-1.0,on-time,84%,69%,Yes,7,76.7,C
+S1329, A ,7.6,on time,7.6,late ,7.7,on time,9.7,On time,6.5,late ,8.7,on-time,77%,58%,Yes,12,88.8,B
+S1153,Sec B,,Missing,7.4,On time,6.7,late ,7.0,On time,6.3,on-time,5.9,late,89%,80%,,5,72.0,C
+S1393,A,5.4,ON TIME,,,7.0,on time,4.7,ON TIME,,Missing,6.9,on-time,67%,43%,N,12,63.8,D
+S1103, C ,5.3,on time,6.6,On time,7.2,On time,3.3,LATE,4.5,late ,,not submitted,71%,67%,yes ,7,68.8,D
+S1338,Sec C,9.1,ON TIME,7.5,On time,7.9,ON TIME,7.8,on time,7.4,Late,7.0,on-time,64%,54%,N,4,75.2,C
+S1154, C ,6.9,on time,,Missing,6.2,on time,7.1,late,6.7,on-time,3.5,Late,69%,61%,Y,12,78.9,C
+S1301,A,8.2,On time,7.8,On time,9.3,On time,10.0,ON TIME,7.1,LATE,7.6,ON TIME,100%,99%,Yes,6,97.4,A
+S1120,A,8.5,On time,10.0,ON TIME,8.1,On time,7.7,On time,10.0,ON TIME,10.0,ON TIME,95%,100%,,3,100.0,A
+S1367, B ,3.3,late ,4.6,Late,6.1,on time,3.5999999999999996,late ,,,4.7,Late,72%,46%,no,7,65.6,D
+S1267, A ,5.6,Late,,not submitted,4.9,late,8.3,on-time,3.5999999999999996,LATE,6.0,late,67%,68%,no,10,66.7,D
+S1144,a,8.8,ON TIME,,Missing,8.1,on-time,7.3,ON TIME,6.1,late,5.9,Late,83%,87%,yes ,3,72.5,C
+S1227, B ,8.8,Late,7.1,late ,9.7,on time,5.8,late ,8.2,on-time,5.9,On time,87%,90%,yes,6,98.3,A
+S1044,Sec C,,not submitted,6.7,ON TIME,6.9,late ,8.8,On time,5.2,on-time,7.1,on time,99%,96%,No,6,75.1,C
+S1113, B ,,not submitted,5.4,late ,7.5,LATE,5.4,late,6.1,On time,7.3,on time,71%,70%,N,2,44.7,F
+S1134,a,8.9,on time,7.3,On time,7.4,ON TIME,8.1,ON TIME,7.1,on-time,6.8,On time,96%,100%,N,9,91.5,A
+S1220, C ,8.2,ON TIME,9.8,ON TIME,9.4,on time,8.4,on-time,10.0,On time,7.2,on-time,98%,86%,no,11,95.7,A
+S1140,B,7.0,LATE,5.0,on-time,8.3,ON TIME,5.3,late ,3.7,late,4.9,Late,60%,66%,No,10,63.2,D
+S1093,Sec B,7.2,ON TIME,5.3,LATE,6.7,On time,6.5,On time,6.4,on-time,9.6,on time,74%,83%,Y,5,66.8,D
+S1101,a,7.0,ON TIME,7.6,Late,6.6,on-time,4.3,On time,7.9,on-time,5.2,on time,85%,68%,yes,10,83.2,B
+S1210, B ,6.2,Late,,missing,7.5,on time,7.0,on time,7.1,Late,5.7,On time,72%,47%,yes ,3,69.5,D
+S1133, A ,9.5,on-time,6.9,on time,9.7,on time,7.2,On time,5.3,on-time,8.0,On time,,67%,NO,5,76.5,C
+S1005,C,9.5,on-time,7.2,on time,10.0,On time,5.5,on-time,8.0,on time,10.0,on time,87%,89%,yes ,6,99.7,A
+S1259,C,6.6,LATE,6.8,on time,4.9,late ,8.2,ON TIME,7.9,ON TIME,8.5,ON TIME,83%,95%,Y,12,76.2,C
+S1130,C,5.8,LATE,2.3,Late,,missing,4.6,late ,6.3,On time,5.0,late,66%,53%,yes,8,57.9,F
+S1079,Sec C,,missing,3.5,late,6.4,late,6.3,on time,,Missing,,missing,51%,53%,yes,12,58.4,F
+S1387, C ,5.5,On time,8.2,LATE,9.6,on-time,9.8,on-time,8.3,LATE,7.7,On time,,63%,yes ,10,91.8,A
+S1155, B ,,not submitted,,not submitted,3.8,late ,3.0999999999999996,late,3.8,late,3.6,on time,71%,62%,no,1,61.2,D
+S1115,C,8.4,On time,8.9,On time,9.6,on-time,8.7,On time,8.6,on time,6.5,on time,120%,90%,yes,5,92.7,A
+S1275, A ,7.9,on-time,7.7,ON TIME,7.7,on-time,8.5,on time,6.5,LATE,7.1,On time,85%,89%,NO,9,85.7,B
+S1286,A,7.4,on time,,missing,5.3,On time,5.8,Late,,missing,,not submitted,70%,61%,N,7,60.6,D
+S1117, A ,5.3,LATE,4.4,LATE,,Missing,7.300000000000001,Late,2.6,LATE,7.0,late,83%,135%,yes,3,71.3,C
+S1206,Sec C,8.7,On time,7.199999999999999,late ,7.2,ON TIME,9.6,on time,6.4,ON TIME,6.5,on time,87%,89%,yes,2,82.8,B
+S1391,A,3.4000000000000004,Late,,missing,4.5,late ,6.1,LATE,2.8,On time,,not submitted,59%,45%,No,5,40.9,F
+S1358,C,3.0,late,5.2,ON TIME,,not submitted,6.2,on-time,6.7,on time,5.9,LATE,-5%,53%,yes ,7,67.0,D
+S1184,c,7.3,ON TIME,9.0,On time,7.9,on-time,5.9,On time,10.0,ON TIME,8.1,ON TIME,88%,82%,Y,5,92.3,A
+S1258,B,2.7,Late,6.1,ON TIME,6.4,on-time,6.8,on time,,,5.4,On time,,67%,Yes,12,68.4,D
+S1386, B ,4.8,Late,6.8,On time,5.7,on time,5.7,Late,6.6,late,6.9,Late,73%,46%,no,7,66.5,D
+S1040,b,6.1,Late,6.9,On time,9.5,On time,7.4,ON TIME,,,9.3,on time,82%,94%,Y,12,85.5,B
+S1385,C,9.0,On time,6.1,ON TIME,7.0,On time,9.6,on-time,8.9,on time,7.6,ON TIME,95%,97%,yes,11,94.3,A
+S1090,A,6.7,on-time,7.3,on-time,6.8,on-time,8.2,On time,7.4,On time,,missing,88%,59%,yes ,8,77.5,C
+S1350, C ,8.0,ON TIME,,,6.8,on time,5.7,late,,missing,8.6,LATE,72%,54%,N,5,62.0,D
+S1231,Sec B,,,8.1,on-time,4.6,Late,4.6,On time,4.5,Late,7.5,on-time,58%,53%,No,2,51.6,F
+S1232,B,6.7,On time,8.1,on time,5.6,LATE,5.9,on time,5.7,late,6.5,on time,84%,78%,NO,6,70.4,C
+S1388, B ,,not submitted,4.4,late ,,missing,1.5,Late,,not submitted,,,65%,53%,no,5,43.0,F
+S1242, C ,,Missing,,Missing,5.6,LATE,,not submitted,5.7,ON TIME,5.9,late ,47%,21%,N,1,37.5,F
+S1164,Sec B,10.0,ON TIME,9.7,on-time,10.0,On time,8.7,ON TIME,10.0,On time,10.0,on time,100%,100%,N,8,95.8,A
+S1362,Sec A,8.9,On time,9.7,on-time,7.5,on-time,8.6,on-time,10.0,on-time,7.8,on time,96%,100%,yes ,3,82.8,B
+S1009,C,7.9,On time,7.6,On time,10.0,on time,8.2,on time,10.0,ON TIME,7.2,on time,92%,97%,Yes,7,100.0,A
+S1037,a,7.6,On time,5.9,On time,6.0,ON TIME,8.9,on time,7.9,on time,6.0,On time,76%,61%,NO,11,65.4,D
+S1342,B,8.0,on time,8.0,on-time,7.6,On time,6.2,ON TIME,6.8,Late,7.3,on time,70%,56%,NO,7,79.3,C
+S1045,C,9.1,on-time,,,9.3,On time,5.2,on-time,,not submitted,8.8,on time,80%,65%,Yes,4,82.5,B
+S1282, A ,6.4,Late,4.7,LATE,3.0,Late,,missing,5.1,on-time,4.3,late,81%,67%,No,7,69.7,D
+S1335,C,6.1,On time,6.7,on-time,10.0,ON TIME,7.9,On time,7.0,on-time,8.9,ON TIME,86%,100%,Yes,8,78.3,C
+S1172,A,7.199999999999999,LATE,6.2,late ,4.8,on-time,5.5,on-time,6.6,On time,5.6,late,84%,65%,,5,71.5,C
+S1036,Sec C,6.3,on-time,,not submitted,,Missing,,Missing,5.7,LATE,5.9,On time,57%,42%,No,10,56.6,F
+S1048,b,8.8,On time,8.7,on-time,8.8,On time,10.0,on time,6.1,ON TIME,10.0,On time,100%,100%,Yes,10,95.7,A
+S1145,a,8.2,ON TIME,7.3,on-time,7.8,On time,7.9,on time,10.0,on-time,8.7,ON TIME,97%,100%,Yes,4,92.8,A
+S1122,B,6.2,On time,5.9,on-time,6.3,on-time,7.199999999999999,LATE,5.9,on time,8.0,On time,,72%,yes ,2,80.3,B
+S1290,Sec C,3.9000000000000004,Late,3.8,late ,,not submitted,4.7,On time,6.1,On time,5.3,Late,73%,,No,3,68.7,D
+S1298, B ,,not submitted,4.7,late,6.6,on-time,3.5,Late,9.0,Late,6.4,late ,76%,60%,Y,3,64.9,D
+S1297,c,5.7,On time,3.7,late ,,Missing,6.9,Late,3.5,Late,4.4,late,69%,54%,Yes,11,58.1,F
+S1197, A ,6.2,on time,,missing,8.5,on-time,,Missing,8.3,ON TIME,6.0,on time,100%,78%,Y,3,85.8,B
+S1257, A ,3.0999999999999996,LATE,,missing,6.9,late,4.3,LATE,3.4000000000000004,late,5.0,late,58%,38%,No,5,41.9,F
+S1139,c,5.4,on-time,6.7,on time,5.9,Late,7.0,on time,7.300000000000001,late,6.9,On time,,78%,yes ,10,85.1,B
+S1375,C,8.9,on-time,8.9,On time,5.5,late ,7.0,on-time,7.3,On time,6.4,On time,71%,55%,yes ,6,88.5,B
+S1336, C ,8.8,On time,10.0,on-time,8.6,On time,8.2,on time,9.8,On time,10.0,ON TIME,92%,86%,yes ,6,100.0,A
+S1107, C ,5.6,LATE,7.9,ON TIME,7.2,On time,8.0,Late,9.1,ON TIME,7.4,late ,100%,94%,NO,6,80.8,B
+S1008,Sec C,7.5,late ,7.4,on time,9.0,ON TIME,7.0,On time,8.1,ON TIME,7.7,on-time,84%,91%,,12,90.4,A
+S1328, B ,7.8,On time,9.1,ON TIME,7.9,on-time,7.9,ON TIME,5.3,On time,6.9,On time,67%,76%,yes ,12,84.2,B
+S1383,C,5.5,Late,,Missing,4.3,Late,6.4,ON TIME,5.4,late,6.1,on time,,57%,NO,1,54.9,F
+S1371,Sec C,7.2,on time,9.7,on time,9.9,ON TIME,9.6,on-time,10.0,On time,9.0,On time,98%,100%,No,5,94.6,A
+S1191,a,15.0,late ,6.2,late,,missing,4.9,LATE,,,,Missing,73%,74%,no,4,63.7,D
+S1234,Sec B,9.7,On time,4.6,on-time,6.5,LATE,6.7,on time,6.3,on time,6.1,late,77%,70%,Yes,10,71.6,C
+S1021,C,3.5999999999999996,LATE,5.6,Late,,,7.4,on time,3.4,On time,3.9,On time,65%,62%,,2,51.5,F
+S1379, C ,5.3,late ,9.0,ON TIME,8.0,on time,8.5,ON TIME,5.9,on-time,10.0,on-time,95%,76%,yes,10,83.2,B
+S1272,B,,missing,7.4,On time,,Missing,5.8,LATE,6.8,LATE,6.3,on time,68%,56%,N,2,69.6,D
+S1398,Sec A,4.5,ON TIME,7.4,on-time,,,7.2,on time,7.2,On time,6.7,On time,80%,77%,yes ,3,75.7,C
+S1310, A ,5.3,on-time,3.8,late ,,not submitted,3.7,late,4.6,On time,5.8,on-time,57%,47%,,4,54.2,F
+S1078,C,8.7,late,7.9,ON TIME,7.1,on time,7.8,on-time,9.9,on time,9.3,on time,98%,100%,no,4,100.0,A
+S1046,a,9.7,on-time,8.1,On time,8.2,on time,8.6,On time,8.9,ON TIME,10.0,ON TIME,79%,77%,No,10,90.2,A
+S1125,Sec A,7.4,LATE,5.4,late,,Missing,,missing,,,5.2,Late,68%,44%,yes ,1,56.3,F
+S1377,c,5.6,on time,8.1,on time,4.4,On time,,not submitted,6.9,Late,4.0,Late,82%,,N,1,72.2,C
+S1366, C ,6.7,late,7.3,on time,6.5,ON TIME,6.9,on-time,7.0,ON TIME,7.8,ON TIME,93%,74%,N,10,89.5,B
+S1219,A,6.1,ON TIME,6.9,late,5.5,Late,6.0,late,9.3,On time,7.3,on time,79%,73%,yes,1,78.3,C
+S1361, B ,,Missing,,not submitted,4.6,Late,,Missing,4.6,late,3.9000000000000004,Late,48%,23%,No,5,37.3,F
+S1249, A ,7.1,on time,6.0,On time,6.1,ON TIME,7.6,on-time,5.3,LATE,,not submitted,77%,57%,N,1,72.8,C
+S1135,A,4.5,on-time,4.3,LATE,8.6,On time,6.6,Late,6.5,on time,8.3,ON TIME,67%,41%,Yes,11,72.9,C
+S1201,C,6.5,ON TIME,6.7,On time,8.8,ON TIME,6.4,On time,7.800000000000001,late ,4.8,On time,,83%,yes,8,79.8,C
+S1365,a,8.9,On time,6.7,On time,9.9,on-time,6.6,ON TIME,9.2,on time,9.0,on-time,92%,92%,,1,92.6,A
+S1110,Sec B,4.8,Late,,missing,7.4,late ,8.3,On time,6.5,on time,9.9,On time,84%,92%,yes,10,89.9,B
+S1397,b,6.6,late,7.7,on-time,9.4,on time,8.7,On time,7.6,on-time,7.5,On time,94%,75%,Y,6,86.8,B
+S1063, A ,7.2,on time,10.0,on-time,6.6,late ,8.2,On time,8.9,On time,7.300000000000001,LATE,96%,97%,yes ,12,84.6,B
+S1292, B ,4.3,on-time,5.8,on-time,5.1,On time,,Missing,6.2,on time,6.3,on-time,65%,65%,yes ,4,69.4,D
+S1092,A,8.2,On time,5.8,Late,5.4,late ,4.7,late ,,Missing,,not submitted,,,No,1,59.1,F
+S1245,Sec B,5.7,on time,7.6,ON TIME,7.7,on-time,,missing,7.3,on time,6.8,on time,90%,75%,Yes,11,75.3,C
+S1062,Sec A,8.5,on-time,8.6,on time,8.4,late,8.8,On time,8.3,ON TIME,9.1,On time,98%,99%,Yes,1,100.0,A
+S1000, C ,,not submitted,7.1,on-time,5.2,late ,4.9,On time,6.8,ON TIME,,,77%,53%,NO,6,65.0,D
+S1027,Sec A,6.5,late,5.4,Late,7.3,on-time,6.1,LATE,6.7,Late,5.0,Late,73%,55%,Y,1,67.9,D
+S1378,b,,,,Missing,5.2,Late,4.7,on-time,5.0,Late,7.199999999999999,late ,51%,40%,yes,4,50.4,F
+S1250, B ,10.0,ON TIME,8.4,On time,8.0,ON TIME,7.2,On time,7.0,late ,10.0,on-time,84%,100%,NO,6,83.3,B
+S1177,b,8.0,on-time,7.5,LATE,8.5,on-time,9.3,on time,6.4,on time,,Missing,86%,,yes ,7,90.6,A
+S1187,Sec C,10.0,on-time,10.0,ON TIME,8.1,On time,9.8,ON TIME,8.4,On time,10.0,On time,87%,93%,yes,1,98.0,A
+S1148, A ,7.5,LATE,8.2,On time,10.0,on time,8.9,on time,8.7,on time,9.1,on-time,100%,87%,yes ,12,91.6,A
+S1239,B,5.9,On time,7.2,ON TIME,8.8,on time,6.4,on-time,6.8,On time,7.2,on time,80%,68%,Yes,5,84.9,B
+S1382,Sec C,8.3,on-time,5.9,ON TIME,6.9,On time,7.6,ON TIME,9.2,on time,4.5,Late,72%,71%,No,8,68.7,D
+S1346, C ,,,6.2,Late,4.1,late,5.8,On time,9.0,late ,5.0,Late,75%,44%,,8,59.7,F
+S1158,C,8.8,On time,8.5,On time,7.2,ON TIME,6.1,LATE,6.0,ON TIME,4.8,on-time,100%,100%,no,3,75.5,C
+S1143,A,6.8,On time,6.2,LATE,6.3,ON TIME,7.4,ON TIME,8.4,on time,,missing,79%,80%,Y,4,74.3,C
+S1273,Sec A,6.6,late,,Missing,7.5,on time,7.1,ON TIME,7.1,late,6.6,late,84%,73%,,7,71.6,C
+S1059,Sec B,6.3,Late,4.0,Late,,Missing,7.5,ON TIME,4.9,late,6.4,late ,67%,68%,N,10,63.5,D
+S1202,Sec A,,not submitted,6.2,on-time,,not submitted,3.8,LATE,,,,,65%,50%,,10,50.1,F
+S1208, B ,8.6,On time,6.2,late,7.9,on time,7.1,on-time,7.8,On time,6.7,LATE,82%,92%,yes ,8,83.0,B
+S1348,A,,missing,6.3,on-time,5.7,On time,3.9,on time,4.7,LATE,,not submitted,71%,47%,No,4,57.4,F
+S1149,B,7.2,ON TIME,7.800000000000001,late ,,not submitted,7.1,LATE,7.9,On time,8.7,ON TIME,100%,100%,yes ,1,91.2,A
+S1123, B ,6.5,Late,5.9,on-time,,,7.8,on time,7.3,on time,4.5,on-time,83%,55%,yes,2,67.7,D
+S1311, C ,6.3,on time,6.5,late,7.0,on-time,7.8,On time,,not submitted,,missing,77%,68%,NO,10,55.8,F
+S1016, A ,,not submitted,,,7.1,late,6.5,on time,7.3,on-time,7.4,on-time,74%,66%,Yes,1,72.7,C
+S1224,c,4.4,late,,,7.7,on time,6.1,ON TIME,7.2,ON TIME,5.7,On time,90%,100%,Y,5,82.0,B
+S1384, C ,,not submitted,6.4,on-time,,not submitted,7.4,ON TIME,6.8,ON TIME,,,68%,52%,Y,12,67.7,D
+S1229, C ,,not submitted,4.2,late,5.7,ON TIME,4.7,late,7.3,on-time,3.9000000000000004,Late,63%,56%,N,1,67.9,D
+S1308,Sec B,7.4,On time,6.7,on time,6.1,on-time,6.1,late,6.2,late ,5.6,late,68%,47%,Yes,11,60.1,D
+S1339,Sec C,6.6,Late,7.7,ON TIME,3.8,ON TIME,5.3,late,9.3,on-time,8.4,ON TIME,87%,85%,yes,6,85.0,B
+S1097,Sec C,8.0,on-time,10.0,On time,8.6,On time,8.3,on-time,8.9,on-time,7.4,on time,88%,90%,Y,9,87.4,B
+S1125,Sec A,7.4,LATE,5.4,late,,Missing,,missing,,,5.2,Late,68%,44%,yes ,1,56.3,F
+S1061,Sec B,9.2,On time,8.6,on time,5.8,On time,5.4,LATE,7.2,On time,5.6,ON TIME,80%,65%,yes ,6,78.9,C
+S1081,Sec A,,Missing,,not submitted,4.9,late ,3.5,Late,,,,missing,68%,44%,No,10,52.5,F
+S1291,c,,,6.4,on-time,6.2,On time,6.8,on-time,7.8,on-time,6.3,Late,86%,81%,yes ,9,75.7,C
+S1324,Sec C,9.4,on time,7.1,on-time,8.0,ON TIME,4.9,late ,,not submitted,6.6,on time,76%,63%,NO,4,68.8,D
+S1056, B ,8.8,On time,8.0,ON TIME,6.3,ON TIME,7.3,On time,5.9,on-time,8.9,on time,100%,100%,Y,11,100.0,A
+S1019,b,3.9,on-time,,,,not submitted,,missing,3.9000000000000004,late ,,not submitted,57%,28%,Y,2,43.1,F
+S1086,c,8.9,on-time,6.4,On time,6.1,late,,Missing,6.9,On time,7.6,ON TIME,84%,77%,no,10,73.9,C
+S1326,B,5.6,ON TIME,6.8,late,,missing,4.8,Late,5.6,ON TIME,4.7,LATE,,57%,yes ,3,60.2,D
+S1246, A ,,missing,5.9,late ,7.8,on-time,6.1,on time,5.6,on-time,6.2,late ,83%,71%,yes,10,72.0,C
+S1137,b,9.0,Late,8.4,on-time,9.6,on time,7.3,on time,9.4,on time,9.5,on time,98%,91%,Yes,6,95.9,A
+S1316,a,6.4,on-time,,,5.8,Late,8.8,ON TIME,7.5,On time,,Missing,76%,64%,N,11,73.6,C
+S1034,b,6.8,on-time,5.8,Late,,,8.3,on time,9.2,On time,6.8,on time,80%,70%,Yes,4,77.9,C
+S1296,c,,Missing,7.6,Late,5.1,LATE,5.5,On time,3.9000000000000004,LATE,,not submitted,52%,29%,Y,4,47.4,F
+S1138,c,6.4,on time,8.8,ON TIME,8.1,on-time,8.8,On time,9.7,On time,9.0,on time,96%,100%,yes ,5,92.1,A
+S1254,c,5.7,late,7.4,on-time,5.4,On time,,Missing,9.0,On time,7.4,On time,70%,64%,no,6,71.2,C
+S1076,C,6.8,on time,5.5,late ,6.4,late ,8.6,on-time,9.0,LATE,7.9,on time,91%,87%,No,8,79.2,C
+S1026, B ,7.1,On time,8.4,on-time,8.1,late,7.7,On time,9.8,on-time,8.8,ON TIME,92%,84%,Yes,11,89.1,B
+S1288,C,8.0,late ,,missing,6.6,on-time,8.5,ON TIME,5.5,late,7.199999999999999,late ,71%,61%,,8,68.3,D
+S1043, A ,9.5,on time,8.0,on-time,9.0,on time,9.2,On time,9.1,on time,10.0,On time,100%,100%,yes ,4,96.7,A
+S1096,C,7.1,On time,5.9,ON TIME,5.4,on-time,7.300000000000001,late,8.5,late,8.5,on-time,77%,77%,Y,2,82.3,B
+S1083,b,8.2,on-time,6.3,on time,7.4,ON TIME,7.7,ON TIME,,Missing,8.5,On time,65%,54%,NO,12,74.3,C
+S1252,Sec C,5.9,LATE,4.0,late,5.4,on-time,3.0,ON TIME,6.5,late,3.6,ON TIME,72%,54%,Yes,9,78.7,C
+S1185,A,6.7,ON TIME,7.4,late ,4.4,Late,9.2,on time,7.199999999999999,LATE,3.7,late,76%,89%,Yes,12,81.1,B
+S1073,Sec C,6.3,ON TIME,8.0,late ,5.8,On time,7.4,On time,,Missing,8.4,on time,74%,43%,Yes,1,76.5,C
+S1248, A ,9.6,on-time,9.3,on-time,7.2,On time,7.8,on time,8.3,On time,7.199999999999999,LATE,90%,73%,yes ,10,100.0,A
+S1247,B,5.0,ON TIME,3.0999999999999996,late ,6.3,On time,5.8,late ,5.5,LATE,4.6,on-time,58%,42%,No,12,64.6,D
+S1233, A ,5.7,LATE,,not submitted,6.8,on-time,6.3,on-time,4.9,late ,7.6,late ,84%,,,3,67.9,D
+S1271,a,6.3,late,6.5,On time,8.2,On time,5.4,on-time,6.1,ON TIME,7.2,ON TIME,80%,65%,N,3,79.6,C
+S1136,C,10.0,ON TIME,10.0,on time,10.0,on-time,8.3,on-time,10.0,On time,10.0,On time,100%,100%,yes,9,100.0,A
+S1295,b,6.7,On time,6.7,ON TIME,7.6,on time,4.9,late,7.5,on time,7.7,on-time,68%,50%,no,12,82.4,B
+S1049, C ,4.1,Late,5.4,late ,5.7,ON TIME,8.2,On time,6.1,on time,,Missing,82%,73%,NO,8,60.8,D
+S1207,Sec C,4.2,Late,,,5.4,late ,5.7,late,5.3,ON TIME,4.9,Late,74%,,,3,51.3,F
+S1394,Sec C,8.0,ON TIME,6.5,On time,,not submitted,6.4,on-time,5.7,Late,5.3,LATE,81%,135%,N,10,64.2,D
+S1392,A,7.8,ON TIME,10.0,on time,7.1,ON TIME,8.6,on time,6.9,On time,10.0,on-time,84%,95%,yes ,12,93.3,A
+S1132,b,6.8,on time,5.9,On time,6.8,On time,7.5,On time,8.5,on time,6.0,late,99%,97%,N,11,85.6,B
+S1050,b,8.9,on-time,9.6,On time,8.8,on-time,7.9,ON TIME,10.0,on time,8.2,on-time,100%,100%,yes,7,100.0,A
+S1238,b,5.0,on-time,6.6,late,6.5,on-time,6.7,on-time,,missing,5.0,On time,65%,52%,No,4,61.5,D
+S1052, C ,4.3,LATE,,Missing,,Missing,5.2,on-time,4.6,Late,5.1,on-time,69%,70%,Y,2,60.3,D
+S1080,A,7.6,ON TIME,4.7,late ,,missing,6.1,on-time,4.8,late ,8.0,On time,,74%,Yes,2,70.2,C
+S1031,a,,,3.1,On time,4.7,Late,5.5,on-time,,missing,5.0,LATE,73%,56%,yes,8,58.3,F
+S1121,B,4.1,late ,8.5,on time,,not submitted,8.3,on time,6.1,late ,4.6,On time,77%,82%,yes,10,80.7,B
+S1211,a,7.0,ON TIME,5.7,late,6.9,Late,5.2,LATE,5.2,Late,,,63%,43%,yes,2,63.2,D
+S1351,c,5.8,on time,7.8,On time,-1.0,LATE,8.3,on time,7.4,On time,8.6,ON TIME,87%,88%,NO,5,80.8,B
+S1302,Sec A,,,6.1,late,9.0,late ,7.2,on-time,7.0,ON TIME,7.6,ON TIME,79%,135%,yes,9,74.1,C
+S1196,B,9.6,On time,10.0,on time,6.8,On time,9.3,on-time,7.5,on time,7.6,On time,91%,81%,Yes,9,90.4,A
+S1088,Sec B,8.6,on-time,8.2,on-time,10.0,on-time,10.0,On time,9.1,ON TIME,10.0,ON TIME,85%,88%,yes,9,96.7,A
+S1325,B,8.8,on-time,6.5,Late,,,6.7,On time,,,6.8,on-time,83%,82%,yes,12,83.3,B
+S1323,Sec A,3.4000000000000004,late,4.6,On time,,not submitted,3.5,LATE,3.8,On time,6.0,LATE,76%,70%,,8,71.0,C
+S1255,Sec C,8.5,ON TIME,,,,,8.5,on time,7.3,ON TIME,3.5,late,,77%,NO,4,71.3,C
+S1058,c,7.1,ON TIME,6.5,late,4.9,late ,6.3,ON TIME,5.4,On time,,,71%,45%,yes ,4,65.1,D
+S1033,c,9.0,ON TIME,8.8,On time,7.9,on time,7.8,ON TIME,6.5,on time,5.4,late,81%,79%,NO,5,86.3,B
+S1038,Sec A,7.2,ON TIME,5.2,late,7.5,on-time,,Missing,9.1,On time,6.7,on time,82%,83%,Yes,7,79.1,C
+S1359,a,5.2,late,6.0,on time,,Missing,6.9,on-time,4.6,LATE,,not submitted,87%,68%,No,10,58.1,F
+S1051,B,,Missing,7.9,ON TIME,10.0,On time,,not submitted,7.2,on time,5.5,on time,99%,100%,yes,10,83.3,B
+S1363, A ,8.8,ON TIME,6.2,on-time,7.8,on-time,7.2,On time,7.2,ON TIME,6.6,on-time,89%,91%,no,6,78.1,C
+S1260,Sec A,4.0,Late,,Missing,5.1,late ,7.0,ON TIME,,,6.3,ON TIME,78%,61%,,8,61.5,D
+S1102,C,8.5,on-time,8.6,late ,9.3,ON TIME,7.9,on time,8.1,on time,7.0,On time,98%,100%,no,5,92.9,A
+S1195,A,6.4,On time,3.2,late ,2.0,on time,6.4,on time,,Missing,6.6,On time,59%,49%,NO,9,55.3,F
+S1167,Sec B,8.7,ON TIME,8.4,on-time,7.5,ON TIME,8.0,ON TIME,6.8,on time,8.7,on-time,96%,97%,yes,8,98.3,A
+S1293,c,,Missing,,not submitted,5.4,LATE,3.8,late,5.9,On time,4.8,late ,73%,67%,N,10,57.3,F
+S1116,Sec B,8.9,on-time,9.7,On time,8.9,ON TIME,9.2,on time,7.5,Late,9.1,on-time,100%,100%,yes ,12,98.5,A
+S1124, B ,3.1,on time,,missing,8.3,ON TIME,5.5,late ,5.4,ON TIME,4.8,Late,72%,54%,yes,9,73.2,C
+S1218,Sec A,7.2,on-time,8.4,ON TIME,5.3,On time,6.4,on time,8.3,On time,6.0,On time,69%,72%,yes,12,86.3,B
+S1287,a,7.4,on-time,6.3,Late,,,9.3,on time,6.3,On time,6.4,On time,83%,75%,N,4,75.4,C
+S1319,A,7.1,on time,,,5.6,Late,5.3,on-time,6.4,on-time,6.1,On time,,62%,No,12,66.1,D
+S1047,A,9.5,on time,8.5,on-time,4.8,on time,7.0,on time,9.1,on-time,9.2,on time,94%,100%,No,9,86.8,B
+S1213,Sec C,-1.0,on-time,7.7,ON TIME,7.7,On time,7.8,On time,7.1,ON TIME,7.0,on-time,84%,88%,NO,11,68.9,D
+S1328, B ,7.8,On time,9.1,ON TIME,7.9,on-time,7.9,ON TIME,5.3,On time,6.9,On time,67%,76%,yes ,12,84.2,B
+S1095,c,6.8,on-time,6.4,On time,7.3,ON TIME,7.1,ON TIME,7.5,ON TIME,8.1,on time,69%,55%,no,7,81.1,B
+S1162,C,8.0,on time,9.2,on-time,10.0,On time,,missing,5.4,ON TIME,7.199999999999999,late ,100%,100%,N,2,89.4,B
+S1263, C ,,,7.3,ON TIME,5.3,on time,,not submitted,4.5,LATE,,not submitted,68%,39%,N,9,52.9,F
+S1360, A ,9.7,ON TIME,8.1,on time,6.9,on-time,8.9,ON TIME,7.0,late ,8.3,On time,90%,100%,yes ,6,91.6,A
+S1075, B ,6.2,On time,8.0,late,6.3,Late,6.7,On time,7.7,On time,8.1,on-time,68%,65%,Yes,2,85.3,B
+S1299,B,6.3,On time,6.1,late,5.1,late ,3.8,ON TIME,,Missing,1.9,LATE,74%,43%,No,2,56.7,F
+S1022,c,6.3,Late,5.0,late ,6.5,late ,4.4,late,8.7,on time,7.1,on time,84%,83%,Yes,3,74.7,C
+S1072, C ,8.0,Late,6.3,On time,6.9,ON TIME,4.1,Late,5.2,late,7.2,on-time,75%,74%,no,9,72.8,C
+S1015, B ,7.2,ON TIME,9.9,on time,8.6,on-time,,Missing,5.7,on time,7.2,ON TIME,87%,73%,Y,12,88.7,B
+S1168,c,4.9,LATE,7.199999999999999,late ,7.6,LATE,7.6,on-time,8.7,ON TIME,7.5,On time,77%,68%,yes,9,80.4,B
