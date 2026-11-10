@@ -1,0 +1,22 @@
+{
+ "Q1": {
+  "decimals": 2,
+  "hash": "738e44173cb3f3a001b8ee5ea4dd58b870ad0435a106b66163b628e1ea6c08da"
+ },
+ "Q2": {
+  "decimals": 2,
+  "hash": "0b2b3d3b6dde570c0e9f87899bf96c23f84dfb3940e27ea2999db8c11edcbd65"
+ },
+ "Q3": {
+  "decimals": null,
+  "hash": "e5c355593ba42c3b790638a7a02cd2739d7c81552eaf8cf31729f9f78cf2a89e"
+ },
+ "Q4": {
+  "decimals": 2,
+  "hash": "b625d3b8206dfea831c1a8244be6a7543a7fc600d71cd9666e0bc4090c2327c0"
+ },
+ "Q5": {
+  "decimals": 2,
+  "hash": "bbc9d2c79d0732d1197e6b8ee51dd810fe91106c129233156b485c7506569489"
+ }
+}
